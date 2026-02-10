@@ -1,0 +1,2169 @@
+{
+  "scraping_date": "2026-02-10 16:00:20",
+  "total_products": 309,
+  "products": [
+    {
+      "name": "LATTE ADDICTION BRONZING DROPS",
+      "category": "Teint",
+      "regular_price": "229.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "LATTE ADDICTION SCULPTING TRIO",
+      "category": "Teint",
+      "regular_price": "209.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "LATTE ADDICTION HIGHLIGHTER CONTOUR STICK",
+      "category": "Teint",
+      "regular_price": "189.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "VITAMIN BOMB SERUM&PRIMER",
+      "category": "Teint",
+      "regular_price": "139.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "HYDRO BOMB SERUM",
+      "category": "Teint",
+      "regular_price": "139.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "DEWY BOMB: SERUM ET BASE DE TEINT",
+      "category": "Teint",
+      "regular_price": "139.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "TO GO STICK BRONZER",
+      "category": "Teint",
+      "regular_price": "139.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "TO GO BLUSH STICK",
+      "category": "Teint",
+      "regular_price": "139.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Puffy Liquid Contour",
+      "category": "Teint",
+      "regular_price": "169.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Puffy Liquid Blush",
+      "category": "Teint",
+      "regular_price": "169.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Tinted Moisturiser SPF50 - Sun Lovers",
+      "category": "Teint",
+      "regular_price": "199.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "GLOW UP SUN BASE SPF50 - Sun Lovers",
+      "category": "Teint",
+      "regular_price": "219.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "SUNSCREEN STICK SPF50 - Sun Lovers",
+      "category": "Teint",
+      "regular_price": "259.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "BLUSHER STICK - Blossom",
+      "category": "Teint",
+      "regular_price": "199.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "CREAMY BLUSH - Blossom",
+      "category": "Teint",
+      "regular_price": "94.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "CAMOUFLAGE PALETTE - Nouveau",
+      "category": "Teint",
+      "regular_price": "169.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Poudre libre BANANA PUDDING -Nouveau",
+      "category": "Teint",
+      "regular_price": "149.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Fard à joues METAGLAM",
+      "category": "Teint",
+      "regular_price": "109.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Paillettes Metaglam",
+      "category": "Teint",
+      "regular_price": "159.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Poudre libre",
+      "category": "Teint",
+      "regular_price": "129.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Poudre libre invisible",
+      "category": "Teint",
+      "regular_price": "139.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Fond de teint SMOOTH SKIN",
+      "category": "Teint",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Poudre compacte SMOOTH SKIN",
+      "category": "Teint",
+      "regular_price": "39.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "All I Need face palette",
+      "category": "Teint",
+      "regular_price": "199.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Anticernes Liquide Stay Perfect",
+      "category": "Teint",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "FOND DE TEINT INVISIBLE COVER HD",
+      "category": "Teint",
+      "regular_price": "199.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Fond de teint Perfect Coverage Mat Touch",
+      "category": "Teint",
+      "regular_price": "99.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Fond de teint Perfect Coverage",
+      "category": "Teint",
+      "regular_price": "99.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Fond de teint Skin Lifting",
+      "category": "Teint",
+      "regular_price": "104.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Fard à joues BLUSH-ON",
+      "category": "Teint",
+      "regular_price": "79.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Baked blush-on",
+      "category": "Teint",
+      "regular_price": "109.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Poudre compacte",
+      "category": "Teint",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Crème Tone Up",
+      "category": "Teint",
+      "regular_price": "119.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Poudre compacte Wet&Dry",
+      "category": "Teint",
+      "regular_price": "129.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Poudre bronzante",
+      "category": "Teint",
+      "regular_price": "119.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Poudre illuminatrice",
+      "category": "Teint",
+      "regular_price": "149.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Poudre cuite- Baked",
+      "category": "Teint",
+      "regular_price": "159.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Poudre fixante SET'N GO",
+      "category": "Teint",
+      "regular_price": "119.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Feel the Glow highlighter",
+      "category": "Teint",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Fard à joues Mood Booster",
+      "category": "Teint",
+      "regular_price": "109.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Spray Fixateur de maquillage - ALL DAY FIX MATTE SETTING SPRAY",
+      "category": "Teint",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Spray fixateur de maquillage - ALL DAY FIX SETTING SPRAY",
+      "category": "Teint",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Illuminateur Mood Booster",
+      "category": "Teint",
+      "regular_price": "109.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Anti-cernes Eye Puff",
+      "category": "Teint",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Crème éclaircissante GLAM STROBING",
+      "category": "Teint",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Glow drops highlighter",
+      "category": "Teint",
+      "regular_price": "119.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Crème teintée hydratante Tinted Moisturiser",
+      "category": "Teint",
+      "regular_price": "149.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Highlighter stick",
+      "category": "Teint",
+      "regular_price": "109.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Contour stick",
+      "category": "Teint",
+      "regular_price": "129.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "BB crème",
+      "category": "Teint",
+      "regular_price": "119.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Base illuminatrice primer",
+      "category": "Teint",
+      "regular_price": "119.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Primer de maquillage réducteur des pores",
+      "category": "Teint",
+      "regular_price": "119.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Spray fixateur maquillage",
+      "category": "Teint",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Double Radiance primer highlighter",
+      "category": "Teint",
+      "regular_price": "149.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Primer base illuminatrice",
+      "category": "Teint",
+      "regular_price": "129.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Perfect Coverage anti-cernes liquide",
+      "category": "Teint",
+      "regular_price": "69.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "BB crème matifiante",
+      "category": "Teint",
+      "regular_price": "59.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Illuminateur liquide",
+      "category": "Teint",
+      "regular_price": "129.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "CC crème",
+      "category": "Teint",
+      "regular_price": "119.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "LATTE ADDICTION EYESHADOW PALETTE",
+      "category": "Yeux",
+      "regular_price": "219.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "COLOR TREASURE MASCARA",
+      "category": "Yeux",
+      "regular_price": "199.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "TINTED PRIMER MASCARA",
+      "category": "Yeux",
+      "regular_price": "129.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "VOLUME UP MASCARA",
+      "category": "Yeux",
+      "regular_price": "149.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Mono fard à paupières Glitter",
+      "category": "Yeux",
+      "regular_price": "54.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "HERO VOLUME&CURL BROWN MASCARA",
+      "category": "Yeux",
+      "regular_price": "139.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "CareFULL volume mascara",
+      "category": "Yeux",
+      "regular_price": "179.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Fard à paupières Metaglam",
+      "category": "Yeux",
+      "regular_price": "149.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "FLORMAR EYES COFFRET ( Precious curl mascara et Extreme Tattoo 06)",
+      "category": "Yeux",
+      "regular_price": "169.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Brow micro filler Crayon à sourcils-001 LIGHT BROWN",
+      "category": "Yeux",
+      "regular_price": "129.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "JUST MAGIC KAJAL LINER KJL",
+      "category": "Yeux",
+      "regular_price": "40.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Crayon à sourcils Powder Brow -01 BEIGE",
+      "category": "Yeux",
+      "regular_price": "89.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Push Up Definition mascara noir",
+      "category": "Yeux",
+      "regular_price": "129.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Ultimate eyes primer mascara",
+      "category": "Yeux",
+      "regular_price": "129.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Rotating volume mascara",
+      "category": "Yeux",
+      "regular_price": "199.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Spider Lash mascara",
+      "category": "Yeux",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Festival Spirit Extreme Tattoo gel pencil",
+      "category": "Yeux",
+      "regular_price": "109.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Extreme Tattoo duo liner",
+      "category": "Yeux",
+      "regular_price": "199.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Triple brow pencil",
+      "category": "Yeux",
+      "regular_price": "189.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Color Shadow crayon d'ombres à paupières",
+      "category": "Yeux",
+      "regular_price": "99.00Dh",
+      "promotional_price": "149.00Dh",
+      "has_promo": true
+    },
+    {
+      "name": "Brow micro filler stylo",
+      "category": "Yeux",
+      "regular_price": "129.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Extreme Tattoo crayon gel",
+      "category": "Yeux",
+      "regular_price": "49.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Eyebrow Liner pour sourcils",
+      "category": "Yeux",
+      "regular_price": "34.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "LONGER THAN EVER MASCARA",
+      "category": "Yeux",
+      "regular_price": "159.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Hero Volume&Curl waterproof mascara",
+      "category": "Yeux",
+      "regular_price": "139.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Open Up waterproof mascara",
+      "category": "Yeux",
+      "regular_price": "139.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Open Up mascara",
+      "category": "Yeux",
+      "regular_price": "139.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Baked fard à paupières",
+      "category": "Yeux",
+      "regular_price": "54.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Palette fard à paupières",
+      "category": "Yeux",
+      "regular_price": "199.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Color palette fard à paupières",
+      "category": "Yeux",
+      "regular_price": "69.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Good Lids Only base de fard à paupières",
+      "category": "Yeux",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Hero Volume&Curl mascara",
+      "category": "Yeux",
+      "regular_price": "129.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Brow setter & primer gel",
+      "category": "Yeux",
+      "regular_price": "129.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Tinted brow gel",
+      "category": "Yeux",
+      "regular_price": "54.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Big’n Bold mascara",
+      "category": "Yeux",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Mono fard à paupières",
+      "category": "Yeux",
+      "regular_price": "69.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Color Your Life mascara",
+      "category": "Yeux",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Shimmer & Shine Liquid Eyeshadow",
+      "category": "Yeux",
+      "regular_price": "89.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Brow Up crayon highlighter",
+      "category": "Yeux",
+      "regular_price": "119.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Angled crayon à sourcils",
+      "category": "Yeux",
+      "regular_price": "109.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Crayon à sourcils Ultra thin",
+      "category": "Yeux",
+      "regular_price": "89.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Midnight matte eyeliner",
+      "category": "Yeux",
+      "regular_price": "44.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Graphic eyeliner noir",
+      "category": "Yeux",
+      "regular_price": "79.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Eyeliner Ultra thin",
+      "category": "Yeux",
+      "regular_price": "79.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Style Matic eyeliner",
+      "category": "Yeux",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Smoky eyes waterproof eyeliner",
+      "category": "Yeux",
+      "regular_price": "109.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Eyeliner stylo",
+      "category": "Yeux",
+      "regular_price": "59.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Crayon à sourcils",
+      "category": "Yeux",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Ultra eyeliner",
+      "category": "Yeux",
+      "regular_price": "44.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Waterproof eyeliner",
+      "category": "Yeux",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Vinyl waterproof dipliner",
+      "category": "Yeux",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Matte waterproof dipliner",
+      "category": "Yeux",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Triple Action mascara",
+      "category": "Yeux",
+      "regular_price": "159.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Mascara fixateur pour sourcils",
+      "category": "Yeux",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Dipliner",
+      "category": "Yeux",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "PRECIOUS CURL MASCARA",
+      "category": "Yeux",
+      "regular_price": "169.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Gel eyeliner",
+      "category": "Yeux",
+      "regular_price": "109.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Pommade à sourcils",
+      "category": "Yeux",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Design kit sourcils",
+      "category": "Yeux",
+      "regular_price": "89.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "LATTE ADDICTION LIP&CHEEK BALM",
+      "category": "Lèvres",
+      "regular_price": "109.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "LATTE ADDICTION LIP TOPPER",
+      "category": "Lèvres",
+      "regular_price": "109.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "LIP PERFECTION PRIMER",
+      "category": "Lèvres",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "CREAMY STYLO",
+      "category": "Lèvres",
+      "regular_price": "39.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Lift Up Caring Lip Plumper",
+      "category": "Lèvres",
+      "regular_price": "139.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Lift Up Lip Plumper Lipliner",
+      "category": "Lèvres",
+      "regular_price": "109.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Iconic",
+      "category": "Lèvres",
+      "regular_price": "377.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Rouges à lèvres Duoglam",
+      "category": "Lèvres",
+      "regular_price": "99.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Gloss Metaglam",
+      "category": "Lèvres",
+      "regular_price": "109.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Rouge à lèvres Extreme matte",
+      "category": "Lèvres",
+      "regular_price": "89.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Rouge à lèvres Shine Kiss me more",
+      "category": "Lèvres",
+      "regular_price": "159.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Juicy Lip Gloss",
+      "category": "Lèvres",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Festival Lovers rouge à lèvres liquide",
+      "category": "Lèvres",
+      "regular_price": "149.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Gloss Dewy Lip Glaze",
+      "category": "Lèvres",
+      "regular_price": "89.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Lip & Cheek Tint",
+      "category": "Lèvres",
+      "regular_price": "149.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Water lip stain",
+      "category": "Lèvres",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Rouges à lèvres Lightweight",
+      "category": "Lèvres",
+      "regular_price": "109.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Rouges à lèvres Kiss Me More lip tattoo",
+      "category": "Lèvres",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Rouge à lèvres Color Master",
+      "category": "Lèvres",
+      "regular_price": "89.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "ROUGE A LEVRES SHEER UP",
+      "category": "Lèvres",
+      "regular_price": "54.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Rouges à lèvres poudre Lightweight",
+      "category": "Lèvres",
+      "regular_price": "119.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Crayon à lèvres waterproof stylematic",
+      "category": "Lèvres",
+      "regular_price": "49.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Crayon à lèvres waterproof",
+      "category": "Lèvres",
+      "regular_price": "59.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Baume à lèvres Match balm cotton candy",
+      "category": "Lèvres",
+      "regular_price": "59.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Gloss Dewy lip booster",
+      "category": "Lèvres",
+      "regular_price": "44.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Lip balm",
+      "category": "Lèvres",
+      "regular_price": "59.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Rouge à lèvres Weightless HD",
+      "category": "Lèvres",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Baume à lèvres Care4Lips",
+      "category": "Lèvres",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Silk matte rouge à lèvres liquide",
+      "category": "Lèvres",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "ROUGE À LÈVRES DELUXE CASHMERE STYLO",
+      "category": "Lèvres",
+      "regular_price": "44.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "LATTE NAIL ENAMEL",
+      "category": "Ongles",
+      "regular_price": "29.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Vernis à ongles Blossom",
+      "category": "Ongles",
+      "regular_price": "19.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "NAIL HARDENER",
+      "category": "Ongles",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Vernis à ongles STAR SHINE- Nouveau",
+      "category": "Ongles",
+      "regular_price": "39.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Base ongles MOISTURE BOOST - Nouveau",
+      "category": "Ongles",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Base ongles CALCIUM GEL - Nouveau",
+      "category": "Ongles",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Top Coat Mattifying Touch - Nouveau",
+      "category": "Ongles",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Base de vernis à ongles MAX LENGTH - Nouveau",
+      "category": "Ongles",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Base Ongles Total Care - Nouveau",
+      "category": "Ongles",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "FRENCH MANICURE SET FMS-319",
+      "category": "Ongles",
+      "regular_price": "89.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "FRENCH MANICURE SET FMS-227",
+      "category": "Ongles",
+      "regular_price": "89.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Vernis à ongles Metaglam",
+      "category": "Ongles",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Éponge dissolvant Easy&Go",
+      "category": "Ongles",
+      "regular_price": "79.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Base Ongles 4 in 1 complete care",
+      "category": "Ongles",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Base de soin pour Ongles No More Breaks",
+      "category": "Ongles",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Soin doux pour cuticules",
+      "category": "Ongles",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Base Ongles total repair - Nouveau",
+      "category": "Ongles",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Ridge Vanisher top coat",
+      "category": "Ongles",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Flormar Huile nourissante à la vitamine E",
+      "category": "Ongles",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Soin ongles Max Growth redesign",
+      "category": "Ongles",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Quick dry drops",
+      "category": "Ongles",
+      "regular_price": "69.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Dissolvant à ongles Expert",
+      "category": "Ongles",
+      "regular_price": "39.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Dissolvant sans acétone",
+      "category": "Ongles",
+      "regular_price": "39.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Dissolvant à ongles fort",
+      "category": "Ongles",
+      "regular_price": "39.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Dissolvant à ongles doux",
+      "category": "Ongles",
+      "regular_price": "39.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Quick dry extra shine top coat",
+      "category": "Ongles",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Huile de soin des ongles",
+      "category": "Ongles",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Peel off base coat",
+      "category": "Ongles",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Max growth base coat",
+      "category": "Ongles",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Top Coat Gel Look",
+      "category": "Ongles",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Extra Days top coat",
+      "category": "Ongles",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Vernis à ongles Glitter",
+      "category": "Ongles",
+      "regular_price": "19.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Vernis à ongles Hands Up",
+      "category": "Ongles",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Vernis à ongles Flormar - New",
+      "category": "Ongles",
+      "regular_price": "29.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Vernis à ongles Breathing color",
+      "category": "Ongles",
+      "regular_price": "39.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Vernis à ongles Pearly",
+      "category": "Ongles",
+      "regular_price": "19.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Spray sèche vernis",
+      "category": "Ongles",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Soins ongles Total Repair",
+      "category": "Ongles",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Vernis à ongles Matifiant Touch redesign",
+      "category": "Ongles",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Vernis à ongles Matifiant Touch",
+      "category": "Ongles",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Soin Ongles 4 in 1 complete care",
+      "category": "Ongles",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Care & Go huile pour les ongles et les cuticules",
+      "category": "Ongles",
+      "regular_price": "69.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Breathing color gel top coat",
+      "category": "Ongles",
+      "regular_price": "39.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Vernis à ongles Full Color",
+      "category": "Ongles",
+      "regular_price": "29.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Vernis à ongles Quick Dry",
+      "category": "Ongles",
+      "regular_price": "19.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Vernis à ongles Jelly Look",
+      "category": "Ongles",
+      "regular_price": "39.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Vernis à ongles matte",
+      "category": "Ongles",
+      "regular_price": "39.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Masque Noir",
+      "category": "Soins",
+      "regular_price": "19.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Masque Visage GLOWING PEEL OFF",
+      "category": "Soins",
+      "regular_price": "59.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Gel douche - cotton candy & vanille - 350 ml",
+      "category": "Soins",
+      "regular_price": "59.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Crème hydratante de jour",
+      "category": "Soins",
+      "regular_price": "189.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Cologne",
+      "category": "Soins",
+      "regular_price": "59.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Mini cologne",
+      "category": "Soins",
+      "regular_price": "39.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Démaquillant pour les yeux",
+      "category": "Soins",
+      "regular_price": "69.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Coton rond pour visage",
+      "category": "Soins",
+      "regular_price": "39.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Coton carré pour visage",
+      "category": "Soins",
+      "regular_price": "39.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Lotion tonique - peaux mixtes et grasses 02",
+      "category": "Soins",
+      "regular_price": "89.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Eau micellaire",
+      "category": "Soins",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Gel nettoyant visage peaux grasses et mixtes - 3 in 1",
+      "category": "Soins",
+      "regular_price": "109.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Black masque",
+      "category": "Soins",
+      "regular_price": "89.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Clay masque",
+      "category": "Soins",
+      "regular_price": "89.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Clean Care lingettes démaquillantes tous types de peaux",
+      "category": "Soins",
+      "regular_price": "39.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Lingettes démaquillantes peaux normales à sèches",
+      "category": "Soins",
+      "regular_price": "39.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Eye Make-Up Removal Pads",
+      "category": "Soins",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Gel nettoyant peaux normales et sèches 01",
+      "category": "Soins",
+      "regular_price": "89.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Gel douche -01 Mixed Berries 350ML",
+      "category": "Soins",
+      "regular_price": "59.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Fond de teint spray Perfect Legs",
+      "category": "Soins",
+      "regular_price": "189.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "NAIL STICKER - Blossom",
+      "category": "Accessoires",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Brosse nettoyante en silicone",
+      "category": "Accessoires",
+      "regular_price": "59.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Trousse de maquillage en velours rose",
+      "category": "Accessoires",
+      "regular_price": "129.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Boîte cadeaux",
+      "category": "Accessoires",
+      "regular_price": "69.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Set 3 pièces blending éponge",
+      "category": "Accessoires",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Pinceau Fond de Teint Ovale",
+      "category": "Accessoires",
+      "regular_price": "119.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Blending éponge polyvalente",
+      "category": "Accessoires",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Lime à ongles en verre",
+      "category": "Accessoires",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Taille-crayon duo",
+      "category": "Accessoires",
+      "regular_price": "45.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Artificial nail set white",
+      "category": "Accessoires",
+      "regular_price": "69.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Artificial nail set clear",
+      "category": "Accessoires",
+      "regular_price": "69.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Gel nettoyant pour pinceaux",
+      "category": "Accessoires",
+      "regular_price": "69.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Brosse Nettoyante pour visage",
+      "category": "Accessoires",
+      "regular_price": "119.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Trimmer",
+      "category": "Accessoires",
+      "regular_price": "59.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Ciseaux à cuticules",
+      "category": "Accessoires",
+      "regular_price": "59.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Manicure set",
+      "category": "Accessoires",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Lime à ongles",
+      "category": "Accessoires",
+      "regular_price": "59.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Lime à ongles en papier",
+      "category": "Accessoires",
+      "regular_price": "29.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Buffer pour ongles",
+      "category": "Accessoires",
+      "regular_price": "39.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Coupe-ongles",
+      "category": "Accessoires",
+      "regular_price": "59.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Pinceau nail art",
+      "category": "Accessoires",
+      "regular_price": "69.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Set de pinceaux à ongles artistiques",
+      "category": "Accessoires",
+      "regular_price": "119.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Pinceau d'ombrage",
+      "category": "Accessoires",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Pinceau estompeur",
+      "category": "Accessoires",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Brosse à sourcils et peigne redesign",
+      "category": "Accessoires",
+      "regular_price": "69.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Pinceau fard à paupières",
+      "category": "Accessoires",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Set de pinceaux de maquillage",
+      "category": "Accessoires",
+      "regular_price": "189.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Pinceau éventail",
+      "category": "Accessoires",
+      "regular_price": "79.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Pinceau forme évasée pour fard à joues",
+      "category": "Accessoires",
+      "regular_price": "79.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "PINCEAU CONTOUR",
+      "category": "Accessoires",
+      "regular_price": "79.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Pinceau pour anti-cernes",
+      "category": "Accessoires",
+      "regular_price": "59.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "PINCEAU BLUSH",
+      "category": "Accessoires",
+      "regular_price": "79.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Pinceau portable",
+      "category": "Accessoires",
+      "regular_price": "119.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Pinceau poudre",
+      "category": "Accessoires",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Pinceau fond de teint",
+      "category": "Accessoires",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "RED LOVER",
+      "category": "Flormar Deals",
+      "regular_price": "248.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Brosse nettoyante en silicone",
+      "category": "Flormar Deals",
+      "regular_price": "59.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Éponge dissolvant Easy&Go",
+      "category": "Flormar Deals",
+      "regular_price": "79.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Crayon à sourcils Powder Brow -01 BEIGE",
+      "category": "Flormar Deals",
+      "regular_price": "89.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Base de soin pour Ongles No More Breaks",
+      "category": "Flormar Deals",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Base Ongles total repair - Nouveau",
+      "category": "Flormar Deals",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Fond de teint SMOOTH SKIN",
+      "category": "Flormar Deals",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Rouge à lèvres Extreme matte",
+      "category": "Flormar Deals",
+      "regular_price": "89.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Extreme Tattoo duo liner",
+      "category": "Flormar Deals",
+      "regular_price": "199.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Triple brow pencil",
+      "category": "Flormar Deals",
+      "regular_price": "189.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Color Shadow crayon d'ombres à paupières",
+      "category": "Flormar Deals",
+      "regular_price": "99.00Dh",
+      "promotional_price": "149.00Dh",
+      "has_promo": true
+    },
+    {
+      "name": "Mini cologne",
+      "category": "Flormar Deals",
+      "regular_price": "39.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Huile de soin des ongles",
+      "category": "Flormar Deals",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Extra Days top coat",
+      "category": "Flormar Deals",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Vernis à ongles Breathing color",
+      "category": "Flormar Deals",
+      "regular_price": "39.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Lip & Cheek Tint",
+      "category": "Flormar Deals",
+      "regular_price": "149.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Water lip stain",
+      "category": "Flormar Deals",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Rouge à lèvres Color Master",
+      "category": "Flormar Deals",
+      "regular_price": "89.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Hero Volume&Curl waterproof mascara",
+      "category": "Flormar Deals",
+      "regular_price": "139.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Rouges à lèvres poudre Lightweight",
+      "category": "Flormar Deals",
+      "regular_price": "119.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Palette fard à paupières",
+      "category": "Flormar Deals",
+      "regular_price": "199.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Color palette fard à paupières",
+      "category": "Flormar Deals",
+      "regular_price": "69.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "FOND DE TEINT INVISIBLE COVER HD",
+      "category": "Flormar Deals",
+      "regular_price": "199.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Shimmer & Shine Liquid Eyeshadow",
+      "category": "Flormar Deals",
+      "regular_price": "89.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Fond de teint Perfect Coverage",
+      "category": "Flormar Deals",
+      "regular_price": "99.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Fond de teint Perfect Coverage Mat Touch",
+      "category": "Flormar Deals",
+      "regular_price": "99.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Fond de teint Skin Lifting",
+      "category": "Flormar Deals",
+      "regular_price": "104.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Poudre bronzante",
+      "category": "Flormar Deals",
+      "regular_price": "119.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Illuminateur Mood Booster",
+      "category": "Flormar Deals",
+      "regular_price": "109.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Crème teintée hydratante Tinted Moisturiser",
+      "category": "Flormar Deals",
+      "regular_price": "149.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Anti-cernes Eye Puff",
+      "category": "Flormar Deals",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Artificial nail set clear",
+      "category": "Flormar Deals",
+      "regular_price": "69.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Gel nettoyant pour pinceaux",
+      "category": "Flormar Deals",
+      "regular_price": "69.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Artificial nail set white",
+      "category": "Flormar Deals",
+      "regular_price": "69.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Manicure set",
+      "category": "Flormar Deals",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Trimmer",
+      "category": "Flormar Deals",
+      "regular_price": "59.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Ciseaux à cuticules",
+      "category": "Flormar Deals",
+      "regular_price": "59.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Set de pinceaux à ongles artistiques",
+      "category": "Flormar Deals",
+      "regular_price": "119.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Pinceau nail art",
+      "category": "Flormar Deals",
+      "regular_price": "69.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Coton carré pour visage",
+      "category": "Flormar Deals",
+      "regular_price": "39.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Style Matic eyeliner",
+      "category": "Flormar Deals",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Smoky eyes waterproof eyeliner",
+      "category": "Flormar Deals",
+      "regular_price": "109.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Ultra eyeliner",
+      "category": "Flormar Deals",
+      "regular_price": "44.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Lotion tonique - peaux mixtes et grasses 02",
+      "category": "Flormar Deals",
+      "regular_price": "89.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Gel douche -01 Mixed Berries 350ML",
+      "category": "Flormar Deals",
+      "regular_price": "59.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Black masque",
+      "category": "Flormar Deals",
+      "regular_price": "89.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Vernis à ongles Matifiant Touch",
+      "category": "Flormar Deals",
+      "regular_price": "49.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Vernis à ongles Quick Dry",
+      "category": "Flormar Deals",
+      "regular_price": "19.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Vernis à ongles Jelly Look",
+      "category": "Flormar Deals",
+      "regular_price": "39.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Vernis à ongles Glitter",
+      "category": "Flormar Deals",
+      "regular_price": "39.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Lip balm",
+      "category": "Flormar Deals",
+      "regular_price": "59.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Baume à lèvres Care4Lips",
+      "category": "Flormar Deals",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "ROUGE À LÈVRES DELUXE CASHMERE STYLO",
+      "category": "Flormar Deals",
+      "regular_price": "44.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Silk matte rouge à lèvres liquide",
+      "category": "Flormar Deals",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Design kit sourcils",
+      "category": "Flormar Deals",
+      "regular_price": "89.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Gel eyeliner",
+      "category": "Flormar Deals",
+      "regular_price": "109.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "BB crème",
+      "category": "Flormar Deals",
+      "regular_price": "119.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "Pommade à sourcils",
+      "category": "Flormar Deals",
+      "regular_price": "99.00Dh",
+      "promotional_price": null,
+      "has_promo": false
+    },
+    {
+      "name": "BB crème matifiante",
+      "category": "Flormar Deals",
+      "regular_price": "59.50Dh",
+      "promotional_price": null,
+      "has_promo": false
+    }
+  ]
+}
